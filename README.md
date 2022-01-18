@@ -1,3 +1,0 @@
-# Underdevelopment...
-
-THANK YOU FOR VISITING MY PRE LAUNCHED (Testing) Website..
