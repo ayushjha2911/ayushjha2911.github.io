@@ -1,7 +1,7 @@
 Namaste 🙏,
 Welcome to my basic Bio-cum-MiniPortfolio site Readme page.
 
-“THE LIFE IS ALL ABOUT 'REALISATION' — Realisation of the things, Realisation of moral duties & responsibilities, Realisation of State of mind, objects and senses, The Realisation of Supreme Truth. And Finally, The Realisation Of Our Real Self.”
+>“THE LIFE IS ALL ABOUT 'REALISATION' — Realisation of the things, Realisation of moral duties & responsibilities, Realisation of State of mind, objects and senses, The Realisation of Supreme Truth. And Finally, The Realisation Of Our Real Self.”
 ~@ayushjha2911
 
 
