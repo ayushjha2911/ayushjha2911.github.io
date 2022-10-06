@@ -1,19 +1,17 @@
 **NAMASTE JI 🤗🙏**
 
-**Welcome to my basic [_BIO-cum-PORTFOLIO_](https://ayushjha2911.github.io/) Site's README Space.**
+**Welcome to my basic [_Bio-cum-Portfolio_](https://ayushjha2911.github.io/) site's README space.**
 
->“THE LIFE IS ALL ABOUT 'REALISATION' — Realisation of the things, Realisation of moral duties & responsibilities, Realisation of State of mind, objects and senses, The Realisation of Supreme Truth. And Finally, The Realisation Of Our Real Self.”
+>“Life is all about **realisation**. — Realisation of the things,moral duties & responsibilities.Realisation of State of mind, objects and senses.The Realisation of Supreme Truth; and finally,the realisation of **our real self**!”
 ~ @ayushjha2911
 
-`{This Start? Haha😄 But Isn't it True and what actually Spirituality is?.. Anyway, it's my P.O.V}`
+`This start!?🙄 Haha,well yes!! but,isn't it true?🤓 Afterall,what else Spirituality is?..😇 Anyway,that's my way of thinking.`
 
-**So yeah! MY [BIO-CUM-PORTFOLIO](https://ayushjha2911.github.io/) Site.** `(Seems Buggy? -> Sorry! W.I.P for Mobile web view & few more fixes and improvements)`
+**So yeah! This is my github portfolio.** `seems buggy? I'm already working on fixing mobile webview & other stuffs.So, stay tuned!🤗`
 
 
-**_Apart from this,
-It's also important to connect on LinkedIn for multi reasons & purposes😌, So let's connect on [LINKEDIN](https://www.linkedin.com/in/ayushjha2911) with me.😇_**
+**_Meanwhile, you can connect with me on [LinkedIn](https://www.linkedin.com/in/ayushjha2911) and [Telegram](https://telegram.me/ayushjha2911).😇_**
 
-_Additionally, Here's [My TELEGRAM I.D](https://telegram.me/ayushjha2911) 
 And, Please refer the [Bio-cum-Portfolio site](https://ayushjha2911.github.io/) site for more social networks and other contacting options_
 
 **Dhanywaad (Thank You) 🙏**
